@@ -15,7 +15,7 @@ div.niceTitle{color:#fff;border-bottom:1px dotted #fff;width:250px;left:0;top:0;
 div.niceTitle h1{background:#900;border-bottom:1px dotted #fff;margin:3px;padding-top:1px;padding-bottom:1px;padding-left:3px;text-align:left;left:0;top:0;-moz-border-radius:0 8px 0 0;-moz-opacity:1;font:700 13px "Trebuchet MS",sans-serif;}
 div.niceTitle .contents{margin:0;padding:0 3px;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);-moz-opacity:1;-khtml-opacity:1;opacity:1;}
 div.niceTitle p{background:#fff;border:1px solid #900;color:#000;font-size:9px;padding:5px;margin:3px;text-align:left;-moz-opacity:1;-moz-border-radius:0 0 8px 8px;}
-body{margin:0 auto;background:url(images/squairy_light.png) center 0 #999;background-position:0 0;background-color:transparent;}
+body{margin:0 auto;background:url(images/tweed.png) center 0 #999;background-position:0 0;background-color:transparent;}
 form{margin:0;}
 a{text-decoration:none;}
 form input{font-size:1.1em;}
@@ -117,7 +117,7 @@ ul#wzdnav a:active{color:#fff;background:gray;}
 .navlnks{color:#fff;text-decoration:none;font-size:11px;}
 .redlnk{color:#900;text-decoration:none;}
 .tblnk{color:#fff;text-decoration:none;}
-.vncellreq{padding-right:20px;padding-left:8px;font-weight:700;border-bottom:1px solid #999;background:#ddd;}
+.vncellreq{padding-right:20px;padding-left:8px;font-weight:700;border-bottom:1px solid #6cc24a;background:#ddd;}
 .vncellt{font-weight:700;border-bottom:1px solid #999;padding:4px 20px 4px 8px;background:#ddd;}
 .vtable{border-bottom:1px solid #999;}
 .vnsepcell{padding-right:20px;padding-left:8px;font-weight:700;border-bottom:1px solid #999;font-size:11px;background:#bbb;}
